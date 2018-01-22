@@ -1,4 +1,5 @@
-//this is not a complete program. please finish the program. thank you.
+//rifki redha bin ahmad rifae
+//A17DW2273
 
 
 #include <iostream>
