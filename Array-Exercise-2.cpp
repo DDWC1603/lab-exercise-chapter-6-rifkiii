@@ -9,16 +9,19 @@ int main()
 {
 	//insert different value to the third element
 	//tukar third element tu dengan value lain
-	mark[]=/*your valie*/
+	mark[2]= 4;/*your valie*/
 
 	//get user input and insert sub the third element
 	//tukar the third element yang baru ditukar tu dengan input dari user
-	mark[x];
+	cin>>mark[3];
+	mark[3];
 
 	//print the first element of the array
-	mark[];
+	mark[0];
+	cout<<mark[0]<<endl;
 
 	//print the ith element of the array
-	mark[x]
+	mark[4];
+	cout<<mark[4]<<endl;
 
 }
