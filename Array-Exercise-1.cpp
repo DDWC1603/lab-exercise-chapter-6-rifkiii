@@ -1,20 +1,20 @@
+//rifki redha bin ahmad rifae
+//A17DW2273
 //its just an array example
 //find the sum of all the value inside the array
 #include <iostream>
 using namespace std;
 
-ary[]={/*insert your own value*/};
+int ary[5]={1,2,3,4,5};
 
-n, result=0;
+int n, result=0;
 
 int main()
-{
 
-	for(/* n is not more than 10*/)
+{
+	for(int x=1;x<=10;x++)
 	{
-		result += ary[];
+		result += ary[2];
 	}
 	cout<<result;
-	
-
 }
